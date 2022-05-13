@@ -109,7 +109,7 @@ Q(t+1)=T′Q(t)+TQ(t)′
 5.End the program with endmodule.
 6.Run the program and choose RTL viewer to get RTL realization.
 
-
+~~~
 ## program
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: sathwik Ravuri
@@ -163,7 +163,7 @@ nand (B,T,Clock,Q);
 nand (Q,A,Qbar);
 nand (Qbar,B,Q);
 endmodule
-
+~~~
 
 ## OUTPUTS:
 ### RTL LOGIC FOR FLIPFLOPS
