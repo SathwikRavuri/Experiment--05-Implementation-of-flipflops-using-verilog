@@ -165,7 +165,7 @@ nand (B,T,Clock,Q);
 nand (Q,A,Qbar);
 nand (Qbar,B,Q);
 endmodule
-~~~
+
 
 
 ## OUTPUTS:
