@@ -102,7 +102,7 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
 ### Procedure
-
+~~~
 1.Open Quartus II and select new project and choose the file location.
 2.Module Declaration. Module should have the file name.
 3.Declare Inputs and outputs.
@@ -111,6 +111,7 @@ Q(t+1)=T′Q(t)+TQ(t)′
 6.Run the program and choose RTL viewer to get RTL realization.
 
 
+~~~
 ## program
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: sathwik Ravuri
@@ -164,7 +165,7 @@ nand (B,T,Clock,Q);
 nand (Q,A,Qbar);
 nand (Qbar,B,Q);
 endmodule
-
+~~~
 
 
 ## OUTPUTS:
