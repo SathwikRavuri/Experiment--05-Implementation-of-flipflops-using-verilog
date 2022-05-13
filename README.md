@@ -199,8 +199,7 @@ iii) JK FLIP FLOP:
 
 iv) T FLIP FLOP:
 
-
-![444](https://user-images.githubusercontent.com/103410316/168317846-60a27f5f-8e9f-46ad-9c46-4cc626efedba.png)
+![11111111111111111111111111111111111111111](https://user-images.githubusercontent.com/103410316/168319732-33cd2aef-04af-472e-82b0-7434c0414ef9.png)
 
 
 
